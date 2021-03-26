@@ -1,0 +1,2 @@
+# studentReg
+my first repository
